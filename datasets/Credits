@@ -1,0 +1,2 @@
+dataset_train.csv and dataset_test.csv is obtained from http://www02.smt.ufrj.br/~offshore/mfs/page_01.html for learning purposes.
+This dataset is used to train ML model to predict the condition states of a motor.
