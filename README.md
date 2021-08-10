@@ -1,2 +1,2 @@
 # PdM
-For Advantech PdM project
+Repository for learning purpose of ML use case in Predictive Maintenance.  
